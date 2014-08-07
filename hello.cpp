@@ -1,1 +1,4 @@
-cout<<"welcome";
+#include<iostream.h>
+{
+  cout<<"welcome";
+}
